@@ -1334,6 +1334,23 @@ a {
     padding: 1rem;
   }
 }
+.cid-vqAGkNff3V {
+  padding-top: 10rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-vqAGkNff3V .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vqAGkNff3V .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-vqySVEiPf6 {
   padding-top: 6rem;
   padding-bottom: 6rem;
