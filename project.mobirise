@@ -62,7 +62,7 @@
       "settings": {
         "main": true,
         "title": "USCN Shop, Buy High Quality Security Camera For Home And Business",
-        "meta_descr": "",
+        "meta_descr": "Shop CCTV kits, installation services and maintenance plans at the UK Safety Camera Network. High quality 4K Annke and 4K Hikvision systems for homes and businesses across Surrey and South London. Every purchase helps fund free public safety cameras in your community. Free UK Support at support@shop.uscn.org.uk or call free on 0808 280 1223 between 8AM to 8PM, or call the store on 0330 520 1223.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1725,7 +1725,8 @@
     "prepurchasemsg1.html": {
       "settings": {
         "title": "USCN Shop Pre-purchase Message 1",
-        "order": "1"
+        "order": "1",
+        "meta_descr": ""
       },
       "components": [
         {
